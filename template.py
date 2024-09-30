@@ -4,6 +4,7 @@ import logging
 
 # creating a list of files and directories to be created
 
+
 list_of_files = [
     ".github/workflows/.gitkeep",
     "src/__init__.py",
@@ -21,7 +22,7 @@ list_of_files = [
     "src/exception/exception.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
-    "init_setup.py",
+    "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
     "setup.py",
